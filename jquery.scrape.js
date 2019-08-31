@@ -4,7 +4,7 @@
     
     result : '',
     
-    proxyUrl : 'jquery.scrape.proxy.php',
+    proxyUrl : 'https://rawcdn.githack.com/beezee/jqueryScrape/1ede19370caddc81a422848c364d99064b288f56/jquery.scrape.proxy.php',
    
     getResult : function(url, event) {
        var finishedEvent = (typeof(event) == 'string') ? event : false;
